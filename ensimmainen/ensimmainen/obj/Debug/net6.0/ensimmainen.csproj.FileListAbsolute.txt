@@ -1,0 +1,15 @@
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\ensimmainen\ensimmainen\bin\Debug\net6.0\ensimmainen.exe
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\ensimmainen\ensimmainen\bin\Debug\net6.0\ensimmainen.deps.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\ensimmainen\ensimmainen\bin\Debug\net6.0\ensimmainen.runtimeconfig.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\ensimmainen\ensimmainen\bin\Debug\net6.0\ensimmainen.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\ensimmainen\ensimmainen\bin\Debug\net6.0\ensimmainen.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\ensimmainen\ensimmainen\obj\Debug\net6.0\ensimmainen.csproj.AssemblyReference.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\ensimmainen\ensimmainen\obj\Debug\net6.0\ensimmainen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\ensimmainen\ensimmainen\obj\Debug\net6.0\ensimmainen.AssemblyInfoInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\ensimmainen\ensimmainen\obj\Debug\net6.0\ensimmainen.AssemblyInfo.cs
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\ensimmainen\ensimmainen\obj\Debug\net6.0\ensimmainen.csproj.CoreCompileInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\ensimmainen\ensimmainen\obj\Debug\net6.0\ensimmainen.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\ensimmainen\ensimmainen\obj\Debug\net6.0\refint\ensimmainen.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\ensimmainen\ensimmainen\obj\Debug\net6.0\ensimmainen.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\ensimmainen\ensimmainen\obj\Debug\net6.0\ensimmainen.genruntimeconfig.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\ensimmainen\ensimmainen\obj\Debug\net6.0\ref\ensimmainen.dll
