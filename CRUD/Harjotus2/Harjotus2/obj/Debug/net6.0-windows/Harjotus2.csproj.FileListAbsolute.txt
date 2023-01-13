@@ -1,0 +1,17 @@
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Harjotus2\Harjotus2\bin\Debug\net6.0-windows\Harjotus2.exe
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Harjotus2\Harjotus2\bin\Debug\net6.0-windows\Harjotus2.deps.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Harjotus2\Harjotus2\bin\Debug\net6.0-windows\Harjotus2.runtimeconfig.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Harjotus2\Harjotus2\bin\Debug\net6.0-windows\Harjotus2.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Harjotus2\Harjotus2\bin\Debug\net6.0-windows\Harjotus2.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Harjotus2\Harjotus2\obj\Debug\net6.0-windows\Harjotus2.csproj.AssemblyReference.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Harjotus2\Harjotus2\obj\Debug\net6.0-windows\Harjotus2.Form1.resources
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Harjotus2\Harjotus2\obj\Debug\net6.0-windows\Harjotus2.csproj.GenerateResource.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Harjotus2\Harjotus2\obj\Debug\net6.0-windows\Harjotus2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Harjotus2\Harjotus2\obj\Debug\net6.0-windows\Harjotus2.AssemblyInfoInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Harjotus2\Harjotus2\obj\Debug\net6.0-windows\Harjotus2.AssemblyInfo.cs
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Harjotus2\Harjotus2\obj\Debug\net6.0-windows\Harjotus2.csproj.CoreCompileInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Harjotus2\Harjotus2\obj\Debug\net6.0-windows\Harjotus2.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Harjotus2\Harjotus2\obj\Debug\net6.0-windows\refint\Harjotus2.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Harjotus2\Harjotus2\obj\Debug\net6.0-windows\Harjotus2.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Harjotus2\Harjotus2\obj\Debug\net6.0-windows\Harjotus2.genruntimeconfig.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Harjotus2\Harjotus2\obj\Debug\net6.0-windows\ref\Harjotus2.dll
