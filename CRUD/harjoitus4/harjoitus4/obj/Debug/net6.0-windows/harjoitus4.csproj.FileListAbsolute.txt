@@ -5,3 +5,13 @@ C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harjoitus4\harjoitus4\obj\D
 C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harjoitus4\harjoitus4\obj\Debug\net6.0-windows\harjoitus4.AssemblyInfoInputs.cache
 C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harjoitus4\harjoitus4\obj\Debug\net6.0-windows\harjoitus4.AssemblyInfo.cs
 C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harjoitus4\harjoitus4\obj\Debug\net6.0-windows\harjoitus4.csproj.CoreCompileInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harjoitus4\harjoitus4\bin\Debug\net6.0-windows\harjoitus4.exe
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harjoitus4\harjoitus4\bin\Debug\net6.0-windows\harjoitus4.deps.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harjoitus4\harjoitus4\bin\Debug\net6.0-windows\harjoitus4.runtimeconfig.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harjoitus4\harjoitus4\bin\Debug\net6.0-windows\harjoitus4.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harjoitus4\harjoitus4\bin\Debug\net6.0-windows\harjoitus4.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harjoitus4\harjoitus4\obj\Debug\net6.0-windows\harjoitus4.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harjoitus4\harjoitus4\obj\Debug\net6.0-windows\refint\harjoitus4.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harjoitus4\harjoitus4\obj\Debug\net6.0-windows\harjoitus4.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harjoitus4\harjoitus4\obj\Debug\net6.0-windows\harjoitus4.genruntimeconfig.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harjoitus4\harjoitus4\obj\Debug\net6.0-windows\ref\harjoitus4.dll
