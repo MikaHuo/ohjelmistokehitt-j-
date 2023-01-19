@@ -1,0 +1,15 @@
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\Lumo\lumo12\bin\Debug\net6.0\lumo12.exe
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\Lumo\lumo12\bin\Debug\net6.0\lumo12.deps.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\Lumo\lumo12\bin\Debug\net6.0\lumo12.runtimeconfig.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\Lumo\lumo12\bin\Debug\net6.0\lumo12.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\Lumo\lumo12\bin\Debug\net6.0\lumo12.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\Lumo\lumo12\obj\Debug\net6.0\lumo12.csproj.AssemblyReference.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\Lumo\lumo12\obj\Debug\net6.0\lumo12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\Lumo\lumo12\obj\Debug\net6.0\lumo12.AssemblyInfoInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\Lumo\lumo12\obj\Debug\net6.0\lumo12.AssemblyInfo.cs
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\Lumo\lumo12\obj\Debug\net6.0\lumo12.csproj.CoreCompileInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\Lumo\lumo12\obj\Debug\net6.0\lumo12.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\Lumo\lumo12\obj\Debug\net6.0\refint\lumo12.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\Lumo\lumo12\obj\Debug\net6.0\lumo12.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\Lumo\lumo12\obj\Debug\net6.0\lumo12.genruntimeconfig.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\Lumo\lumo12\obj\Debug\net6.0\ref\lumo12.dll
