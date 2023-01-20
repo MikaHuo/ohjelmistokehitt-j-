@@ -5,11 +5,17 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kolmas teht1", "kolmas teht1\kolmas teht1.csproj", "{8BC2EB90-6E6A-4329-87C0-2E68BDAC054B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teht 2", "teht 2\teht 2.csproj", "{0613C1AC-23DE-4BD7-998D-8DACDA83868A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "teht 2", "teht 2\teht 2.csproj", "{0613C1AC-23DE-4BD7-998D-8DACDA83868A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teht 3", "teht 3\teht 3.csproj", "{383861C9-F4C5-4F46-AE4E-0070F0354855}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "teht 3", "teht 3\teht 3.csproj", "{383861C9-F4C5-4F46-AE4E-0070F0354855}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teht 4", "teht 4\teht 4.csproj", "{AA78A126-6561-487B-B679-35D970BD1BC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "teht 4", "teht 4\teht 4.csproj", "{AA78A126-6561-487B-B679-35D970BD1BC8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "teht 5", "teht 5\teht 5.csproj", "{3BB532E6-6E60-4358-9E80-2C5288827416}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teht 6", "teht 6\teht 6.csproj", "{C0758089-D5C7-4B53-9B96-78D7A361BD6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teht 7", "teht 7\teht 7.csproj", "{011B4CF5-DE2D-49BF-87E2-A74A6439E02D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{AA78A126-6561-487B-B679-35D970BD1BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA78A126-6561-487B-B679-35D970BD1BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA78A126-6561-487B-B679-35D970BD1BC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BB532E6-6E60-4358-9E80-2C5288827416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB532E6-6E60-4358-9E80-2C5288827416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB532E6-6E60-4358-9E80-2C5288827416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BB532E6-6E60-4358-9E80-2C5288827416}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0758089-D5C7-4B53-9B96-78D7A361BD6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0758089-D5C7-4B53-9B96-78D7A361BD6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0758089-D5C7-4B53-9B96-78D7A361BD6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0758089-D5C7-4B53-9B96-78D7A361BD6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{011B4CF5-DE2D-49BF-87E2-A74A6439E02D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{011B4CF5-DE2D-49BF-87E2-A74A6439E02D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{011B4CF5-DE2D-49BF-87E2-A74A6439E02D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{011B4CF5-DE2D-49BF-87E2-A74A6439E02D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
