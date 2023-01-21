@@ -1,8 +1,19 @@
 ﻿internal class Program
 {
-    private static void Main(string[] args)
+    public static void Main(string[] args)
     {
         Console.WriteLine("Hei vaan anna ikäsi: ");
-        Console.ReadLine();
+        int ika = int.Parse(Console.ReadLine);
+         if (ika < 15)
+        { 
+            Console.Write(" Herttinen että sinulla on vielä matkaa ikä ihmisiin ");
+        }
+         else if (ika < 30)
+        { 
+            Console.Write(" Mentävä se on metsään kasvamaan ");
+        }
+         else
+        { 
+            Console.Write(" Haudan partaalla");
+        }
     }
-}
