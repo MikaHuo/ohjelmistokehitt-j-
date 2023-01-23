@@ -1,0 +1,15 @@
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\eka teht 1\eka teht 1\bin\Debug\net6.0\eka teht 1.exe
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\eka teht 1\eka teht 1\bin\Debug\net6.0\eka teht 1.deps.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\eka teht 1\eka teht 1\bin\Debug\net6.0\eka teht 1.runtimeconfig.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\eka teht 1\eka teht 1\bin\Debug\net6.0\eka teht 1.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\eka teht 1\eka teht 1\bin\Debug\net6.0\eka teht 1.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\eka teht 1\eka teht 1\obj\Debug\net6.0\eka teht 1.csproj.AssemblyReference.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\eka teht 1\eka teht 1\obj\Debug\net6.0\eka teht 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\eka teht 1\eka teht 1\obj\Debug\net6.0\eka teht 1.AssemblyInfoInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\eka teht 1\eka teht 1\obj\Debug\net6.0\eka teht 1.AssemblyInfo.cs
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\eka teht 1\eka teht 1\obj\Debug\net6.0\eka teht 1.csproj.CoreCompileInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\eka teht 1\eka teht 1\obj\Debug\net6.0\eka teht 1.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\eka teht 1\eka teht 1\obj\Debug\net6.0\refint\eka teht 1.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\eka teht 1\eka teht 1\obj\Debug\net6.0\eka teht 1.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\eka teht 1\eka teht 1\obj\Debug\net6.0\eka teht 1.genruntimeconfig.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\eka teht 1\eka teht 1\obj\Debug\net6.0\ref\eka teht 1.dll

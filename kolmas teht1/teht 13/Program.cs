@@ -13,7 +13,7 @@
             taulu[i] = sana[i];
         taulu[0] = sana[pituus-1];
         taulu[pituus - 1] = sana[0];
-        usana = string.Join(" ", taulu);
-        Console.WriteLine("Annoit sanan {0} ja se on muutettuja {1}", sana, usana);
+        usana = string.Join("", taulu);
+        Console.WriteLine("Annoit sanan: {0} ja se on muutettu: {1}", sana, usana);
     }
 }

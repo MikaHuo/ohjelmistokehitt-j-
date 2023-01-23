@@ -4,7 +4,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine(" Anna lukema joka on suurempi kun 10 ");
+        Console.WriteLine(" Anna lukema joka tulostetaan kyseisen määrän: ");
     paluu:
         int numero;
         try
