@@ -1,0 +1,5 @@
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\luokat pankki\luokat pankki\obj\Debug\net6.0\luokat pankki.csproj.AssemblyReference.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\luokat pankki\luokat pankki\obj\Debug\net6.0\luokat pankki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\luokat pankki\luokat pankki\obj\Debug\net6.0\luokat pankki.AssemblyInfoInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\luokat pankki\luokat pankki\obj\Debug\net6.0\luokat pankki.AssemblyInfo.cs
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\luokat pankki\luokat pankki\obj\Debug\net6.0\luokat pankki.csproj.CoreCompileInputs.cache
