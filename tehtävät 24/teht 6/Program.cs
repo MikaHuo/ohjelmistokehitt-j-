@@ -12,7 +12,7 @@
         }
         catch (Exception ex)
         {
-            Console.WriteLine(ex);
+            Console.WriteLine(ex.Message);
             Console.WriteLine(" Antamasi luku ei ole kokonaisluku! ");
             goto palautus;
         }

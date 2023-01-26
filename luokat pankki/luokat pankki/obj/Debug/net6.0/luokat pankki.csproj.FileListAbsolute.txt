@@ -3,3 +3,13 @@ C:\Users\mhuot\source\repos\ohjelmistokehittaja\luokat pankki\luokat pankki\obj\
 C:\Users\mhuot\source\repos\ohjelmistokehittaja\luokat pankki\luokat pankki\obj\Debug\net6.0\luokat pankki.AssemblyInfoInputs.cache
 C:\Users\mhuot\source\repos\ohjelmistokehittaja\luokat pankki\luokat pankki\obj\Debug\net6.0\luokat pankki.AssemblyInfo.cs
 C:\Users\mhuot\source\repos\ohjelmistokehittaja\luokat pankki\luokat pankki\obj\Debug\net6.0\luokat pankki.csproj.CoreCompileInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\luokat pankki\luokat pankki\bin\Debug\net6.0\luokat pankki.exe
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\luokat pankki\luokat pankki\bin\Debug\net6.0\luokat pankki.deps.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\luokat pankki\luokat pankki\bin\Debug\net6.0\luokat pankki.runtimeconfig.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\luokat pankki\luokat pankki\bin\Debug\net6.0\luokat pankki.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\luokat pankki\luokat pankki\bin\Debug\net6.0\luokat pankki.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\luokat pankki\luokat pankki\obj\Debug\net6.0\luokat pankki.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\luokat pankki\luokat pankki\obj\Debug\net6.0\refint\luokat pankki.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\luokat pankki\luokat pankki\obj\Debug\net6.0\luokat pankki.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\luokat pankki\luokat pankki\obj\Debug\net6.0\luokat pankki.genruntimeconfig.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\luokat pankki\luokat pankki\obj\Debug\net6.0\ref\luokat pankki.dll

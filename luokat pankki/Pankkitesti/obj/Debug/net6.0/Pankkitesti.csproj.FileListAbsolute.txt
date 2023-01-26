@@ -1,0 +1,6 @@
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\luokat pankki\Pankkitesti\obj\Debug\net6.0\Pankkitesti.csproj.AssemblyReference.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\luokat pankki\Pankkitesti\obj\Debug\net6.0\Pankkitesti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\luokat pankki\Pankkitesti\obj\Debug\net6.0\Pankkitesti.AssemblyInfoInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\luokat pankki\Pankkitesti\obj\Debug\net6.0\Pankkitesti.AssemblyInfo.cs
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\luokat pankki\Pankkitesti\obj\Debug\net6.0\Pankkitesti.csproj.CoreCompileInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\luokat pankki\Pankkitesti\bin\Debug\net6.0\CoverletSourceRootsMapping
