@@ -16,9 +16,11 @@
             Console.WriteLine(" Antamisi luku ei ollut kokonaisluku! ");
             goto paluu;
         }
-        if (numsanaksi < 0 || numsanaksi > 999);
-        Console.WriteLine(" Annoit lukeman mitä ei voi kääntää tekstiksi kokeile uudestaan. luku tulee olla 1-999");
-        goto paluu;
-            
+        if (numsanaksi > 999 || numsanaksi < 0);
+        {
+            Console.WriteLine(" Annoit lukeman mitä ei voi kääntää tekstiksi kokeile uudestaan. luku tulee olla 1-999");
+            goto paluu;
+        }
+        else if ();
     }
 }

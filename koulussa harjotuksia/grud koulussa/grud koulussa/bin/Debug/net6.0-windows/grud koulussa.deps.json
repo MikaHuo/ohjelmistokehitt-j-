@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "grud koulussa/1.0.0": {
+        "runtime": {
+          "grud koulussa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "grud koulussa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

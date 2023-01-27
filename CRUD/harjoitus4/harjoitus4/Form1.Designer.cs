@@ -40,14 +40,14 @@
             // 
             // SyntymaAikaDT
             // 
-            this.SyntymaAikaDT.Location = new System.Drawing.Point(12, 12);
+            this.SyntymaAikaDT.Location = new System.Drawing.Point(24, 12);
             this.SyntymaAikaDT.Name = "SyntymaAikaDT";
-            this.SyntymaAikaDT.Size = new System.Drawing.Size(550, 51);
+            this.SyntymaAikaDT.Size = new System.Drawing.Size(550, 58);
             this.SyntymaAikaDT.TabIndex = 0;
             // 
             // LaskeIkaBT
             // 
-            this.LaskeIkaBT.Location = new System.Drawing.Point(580, 12);
+            this.LaskeIkaBT.Location = new System.Drawing.Point(718, 19);
             this.LaskeIkaBT.Name = "LaskeIkaBT";
             this.LaskeIkaBT.Size = new System.Drawing.Size(169, 51);
             this.LaskeIkaBT.TabIndex = 1;
@@ -60,7 +60,7 @@
             this.VuosinaLB.AutoSize = true;
             this.VuosinaLB.Location = new System.Drawing.Point(15, 127);
             this.VuosinaLB.Name = "VuosinaLB";
-            this.VuosinaLB.Size = new System.Drawing.Size(136, 45);
+            this.VuosinaLB.Size = new System.Drawing.Size(155, 51);
             this.VuosinaLB.TabIndex = 2;
             this.VuosinaLB.Text = "Vuosina";
             this.VuosinaLB.Visible = false;
@@ -70,7 +70,7 @@
             this.KuukausinaLB.AutoSize = true;
             this.KuukausinaLB.Location = new System.Drawing.Point(24, 186);
             this.KuukausinaLB.Name = "KuukausinaLB";
-            this.KuukausinaLB.Size = new System.Drawing.Size(187, 45);
+            this.KuukausinaLB.Size = new System.Drawing.Size(214, 51);
             this.KuukausinaLB.TabIndex = 3;
             this.KuukausinaLB.Text = "Kuukausina";
             this.KuukausinaLB.Visible = false;
@@ -80,7 +80,7 @@
             this.PaivinaLB.AutoSize = true;
             this.PaivinaLB.Location = new System.Drawing.Point(24, 259);
             this.PaivinaLB.Name = "PaivinaLB";
-            this.PaivinaLB.Size = new System.Drawing.Size(122, 45);
+            this.PaivinaLB.Size = new System.Drawing.Size(138, 51);
             this.PaivinaLB.TabIndex = 4;
             this.PaivinaLB.Text = "Päivinä";
             this.PaivinaLB.Visible = false;
@@ -90,7 +90,7 @@
             this.TunteinaLB.AutoSize = true;
             this.TunteinaLB.Location = new System.Drawing.Point(370, 127);
             this.TunteinaLB.Name = "TunteinaLB";
-            this.TunteinaLB.Size = new System.Drawing.Size(147, 45);
+            this.TunteinaLB.Size = new System.Drawing.Size(169, 51);
             this.TunteinaLB.TabIndex = 5;
             this.TunteinaLB.Text = "Tunteina";
             this.TunteinaLB.Visible = false;
@@ -100,7 +100,7 @@
             this.MinuutteinaLB.AutoSize = true;
             this.MinuutteinaLB.Location = new System.Drawing.Point(370, 186);
             this.MinuutteinaLB.Name = "MinuutteinaLB";
-            this.MinuutteinaLB.Size = new System.Drawing.Size(198, 45);
+            this.MinuutteinaLB.Size = new System.Drawing.Size(227, 51);
             this.MinuutteinaLB.TabIndex = 6;
             this.MinuutteinaLB.Text = "Minuutteina";
             this.MinuutteinaLB.Visible = false;
@@ -110,16 +110,16 @@
             this.SekuntteinaLB.AutoSize = true;
             this.SekuntteinaLB.Location = new System.Drawing.Point(370, 259);
             this.SekuntteinaLB.Name = "SekuntteinaLB";
-            this.SekuntteinaLB.Size = new System.Drawing.Size(192, 45);
+            this.SekuntteinaLB.Size = new System.Drawing.Size(221, 51);
             this.SekuntteinaLB.TabIndex = 7;
             this.SekuntteinaLB.Text = "Sekuntteina";
             this.SekuntteinaLB.Visible = false;
             // 
             // IkaForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(18F, 45F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(21F, 51F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1083, 493);
+            this.ClientSize = new System.Drawing.Size(1397, 708);
             this.Controls.Add(this.SekuntteinaLB);
             this.Controls.Add(this.MinuutteinaLB);
             this.Controls.Add(this.TunteinaLB);
@@ -129,9 +129,10 @@
             this.Controls.Add(this.LaskeIkaBT);
             this.Controls.Add(this.SyntymaAikaDT);
             this.Font = new System.Drawing.Font("Segoe UI", 14.14286F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "IkaForm";
             this.Text = "Ikälaskuri";
+            this.Load += new System.EventHandler(this.IkaForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

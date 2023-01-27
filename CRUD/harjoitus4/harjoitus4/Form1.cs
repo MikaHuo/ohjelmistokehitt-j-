@@ -25,5 +25,10 @@ namespace harjoitus4
             MinuutteinaLB.Visible = true;
             SekuntteinaLB.Visible = true;
         }
+
+        private void IkaForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

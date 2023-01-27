@@ -1,0 +1,17 @@
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\koulussa harjotuksia\grud koulussa\grud koulussa\bin\Debug\net6.0-windows\grud koulussa.exe
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\koulussa harjotuksia\grud koulussa\grud koulussa\bin\Debug\net6.0-windows\grud koulussa.deps.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\koulussa harjotuksia\grud koulussa\grud koulussa\bin\Debug\net6.0-windows\grud koulussa.runtimeconfig.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\koulussa harjotuksia\grud koulussa\grud koulussa\bin\Debug\net6.0-windows\grud koulussa.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\koulussa harjotuksia\grud koulussa\grud koulussa\bin\Debug\net6.0-windows\grud koulussa.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\koulussa harjotuksia\grud koulussa\grud koulussa\obj\Debug\net6.0-windows\grud koulussa.csproj.AssemblyReference.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\koulussa harjotuksia\grud koulussa\grud koulussa\obj\Debug\net6.0-windows\grud_koulussa.Harjoitus1.resources
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\koulussa harjotuksia\grud koulussa\grud koulussa\obj\Debug\net6.0-windows\grud koulussa.csproj.GenerateResource.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\koulussa harjotuksia\grud koulussa\grud koulussa\obj\Debug\net6.0-windows\grud koulussa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\koulussa harjotuksia\grud koulussa\grud koulussa\obj\Debug\net6.0-windows\grud koulussa.AssemblyInfoInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\koulussa harjotuksia\grud koulussa\grud koulussa\obj\Debug\net6.0-windows\grud koulussa.AssemblyInfo.cs
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\koulussa harjotuksia\grud koulussa\grud koulussa\obj\Debug\net6.0-windows\grud koulussa.csproj.CoreCompileInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\koulussa harjotuksia\grud koulussa\grud koulussa\obj\Debug\net6.0-windows\grud koulussa.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\koulussa harjotuksia\grud koulussa\grud koulussa\obj\Debug\net6.0-windows\refint\grud koulussa.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\koulussa harjotuksia\grud koulussa\grud koulussa\obj\Debug\net6.0-windows\grud koulussa.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\koulussa harjotuksia\grud koulussa\grud koulussa\obj\Debug\net6.0-windows\grud koulussa.genruntimeconfig.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\koulussa harjotuksia\grud koulussa\grud koulussa\obj\Debug\net6.0-windows\ref\grud koulussa.dll
