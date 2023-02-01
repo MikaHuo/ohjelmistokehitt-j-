@@ -3,7 +3,7 @@
     private static void Main(string[] args)
     {
         int luku;
-        for(int i = 0; i <= luku; i++) 
+        for(int i = 0; i <= 2; i++) 
         {
             
         }

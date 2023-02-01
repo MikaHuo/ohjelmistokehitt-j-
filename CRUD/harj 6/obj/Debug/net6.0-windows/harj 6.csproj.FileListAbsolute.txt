@@ -1,0 +1,17 @@
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 6\bin\Debug\net6.0-windows\harj 6.exe
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 6\bin\Debug\net6.0-windows\harj 6.deps.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 6\bin\Debug\net6.0-windows\harj 6.runtimeconfig.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 6\bin\Debug\net6.0-windows\harj 6.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 6\bin\Debug\net6.0-windows\harj 6.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 6\obj\Debug\net6.0-windows\harj 6.csproj.AssemblyReference.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 6\obj\Debug\net6.0-windows\harj_6.SalasanaForm.resources
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 6\obj\Debug\net6.0-windows\harj 6.csproj.GenerateResource.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 6\obj\Debug\net6.0-windows\harj 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 6\obj\Debug\net6.0-windows\harj 6.AssemblyInfoInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 6\obj\Debug\net6.0-windows\harj 6.AssemblyInfo.cs
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 6\obj\Debug\net6.0-windows\harj 6.csproj.CoreCompileInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 6\obj\Debug\net6.0-windows\harj 6.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 6\obj\Debug\net6.0-windows\refint\harj 6.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 6\obj\Debug\net6.0-windows\harj 6.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 6\obj\Debug\net6.0-windows\harj 6.genruntimeconfig.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 6\obj\Debug\net6.0-windows\ref\harj 6.dll

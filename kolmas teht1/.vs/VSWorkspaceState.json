@@ -1,16 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+    "\\harj 8",
     "\\teht 10",
     "\\teht 12",
     "\\teht 13",
-    "\\teht 2",
-    "\\teht 3",
-    "\\teht 4",
     "\\teht 5",
     "\\teht 6",
     "\\teht 7"
   ],
-  "SelectedNode": "\\teht 4\\teht 4.csproj",
+  "SelectedNode": "\\harj 8\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
