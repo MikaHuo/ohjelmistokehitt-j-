@@ -57,7 +57,7 @@
             this.SalasanaPanel.ForeColor = System.Drawing.Color.Gold;
             this.SalasanaPanel.Location = new System.Drawing.Point(0, 0);
             this.SalasanaPanel.Name = "SalasanaPanel";
-            this.SalasanaPanel.Size = new System.Drawing.Size(1401, 807);
+            this.SalasanaPanel.Size = new System.Drawing.Size(1356, 512);
             this.SalasanaPanel.TabIndex = 0;
             // 
             // chkBx
@@ -69,7 +69,6 @@
             this.chkBx.TabIndex = 6;
             this.chkBx.Text = "Näytä salasana";
             this.chkBx.UseVisualStyleBackColor = true;
-            this.chkBx.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
             // 
             // VirheviestiLB
             // 
@@ -95,6 +94,7 @@
             // 
             this.SalasanaTB.Location = new System.Drawing.Point(499, 221);
             this.SalasanaTB.Name = "SalasanaTB";
+            this.SalasanaTB.PasswordChar = '*';
             this.SalasanaTB.Size = new System.Drawing.Size(345, 71);
             this.SalasanaTB.TabIndex = 2;
             this.SalasanaTB.TextChanged += new System.EventHandler(this.SalasanaTB_TextChanged);
@@ -135,7 +135,7 @@
             this.SalasanaOikeinPanel.ForeColor = System.Drawing.Color.Snow;
             this.SalasanaOikeinPanel.Location = new System.Drawing.Point(0, 0);
             this.SalasanaOikeinPanel.Name = "SalasanaOikeinPanel";
-            this.SalasanaOikeinPanel.Size = new System.Drawing.Size(1401, 807);
+            this.SalasanaOikeinPanel.Size = new System.Drawing.Size(1356, 512);
             this.SalasanaOikeinPanel.TabIndex = 1;
             this.SalasanaOikeinPanel.Visible = false;
             // 
@@ -152,7 +152,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 32F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1401, 807);
+            this.ClientSize = new System.Drawing.Size(1356, 512);
             this.Controls.Add(this.SalasanaPanel);
             this.Controls.Add(this.SalasanaOikeinPanel);
             this.Name = "SalasanaForm";

@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "harj 6", "harj 6.csproj", "{28A9C20F-6B1E-4277-B243-BD2379F8CD8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harj 7", "..\harj 7\harj 7.csproj", "{2BF4AB58-2E5A-434F-9F31-EA85FF7B4B11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{28A9C20F-6B1E-4277-B243-BD2379F8CD8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28A9C20F-6B1E-4277-B243-BD2379F8CD8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28A9C20F-6B1E-4277-B243-BD2379F8CD8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BF4AB58-2E5A-434F-9F31-EA85FF7B4B11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF4AB58-2E5A-434F-9F31-EA85FF7B4B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF4AB58-2E5A-434F-9F31-EA85FF7B4B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF4AB58-2E5A-434F-9F31-EA85FF7B4B11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

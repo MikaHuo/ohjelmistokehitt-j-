@@ -1,0 +1,17 @@
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 7\obj\Debug\net6.0-windows\harj 7.csproj.AssemblyReference.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 7\obj\Debug\net6.0-windows\harj_7.Form1.resources
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 7\obj\Debug\net6.0-windows\harj 7.csproj.GenerateResource.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 7\obj\Debug\net6.0-windows\harj 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 7\obj\Debug\net6.0-windows\harj 7.AssemblyInfoInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 7\obj\Debug\net6.0-windows\harj 7.AssemblyInfo.cs
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 7\obj\Debug\net6.0-windows\harj 7.csproj.CoreCompileInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 7\bin\Debug\net6.0-windows\harj 7.exe
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 7\bin\Debug\net6.0-windows\harj 7.deps.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 7\bin\Debug\net6.0-windows\harj 7.runtimeconfig.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 7\bin\Debug\net6.0-windows\harj 7.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 7\bin\Debug\net6.0-windows\harj 7.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 7\obj\Debug\net6.0-windows\harj 7.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 7\obj\Debug\net6.0-windows\refint\harj 7.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 7\obj\Debug\net6.0-windows\harj 7.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 7\obj\Debug\net6.0-windows\harj 7.genruntimeconfig.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\harj 7\obj\Debug\net6.0-windows\ref\harj 7.dll

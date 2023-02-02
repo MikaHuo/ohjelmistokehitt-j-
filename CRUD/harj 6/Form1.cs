@@ -47,15 +47,13 @@ namespace harj_6
         {
             if(chkBx.Checked) 
             {
-                SalasanaTB.UseSystemPasswordChar = true;
-                var checkBox = (CheckBox)sender;
-                checkBox.Text = "Näytä";
+                SalasanaTB.PasswordChar = '\0';
+                
             }
             else
             {
-                SalasanaTB.UseSystemPasswordChar = false;
-                var checkBox = (CheckBox)sender;
-                checkBox.Text = "Piiloita";
+                SalasanaTB.PasswordChar = '*';
+                
             }
         }
     }
