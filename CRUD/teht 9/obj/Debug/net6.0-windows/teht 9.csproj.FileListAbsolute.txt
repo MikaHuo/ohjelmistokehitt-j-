@@ -1,0 +1,18 @@
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 9\bin\Debug\net6.0-windows\teht 9.exe
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 9\bin\Debug\net6.0-windows\teht 9.deps.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 9\bin\Debug\net6.0-windows\teht 9.runtimeconfig.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 9\bin\Debug\net6.0-windows\teht 9.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 9\bin\Debug\net6.0-windows\teht 9.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 9\obj\Debug\net6.0-windows\teht 9.csproj.AssemblyReference.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 9\obj\Debug\net6.0-windows\teht_9.Form1.resources
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 9\obj\Debug\net6.0-windows\teht 9.csproj.GenerateResource.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 9\obj\Debug\net6.0-windows\teht 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 9\obj\Debug\net6.0-windows\teht 9.AssemblyInfoInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 9\obj\Debug\net6.0-windows\teht 9.AssemblyInfo.cs
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 9\obj\Debug\net6.0-windows\teht 9.csproj.CoreCompileInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 9\obj\Debug\net6.0-windows\teht 9.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 9\obj\Debug\net6.0-windows\refint\teht 9.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 9\obj\Debug\net6.0-windows\teht 9.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 9\obj\Debug\net6.0-windows\teht 9.genruntimeconfig.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 9\obj\Debug\net6.0-windows\ref\teht 9.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 9\obj\Debug\net6.0-windows\teht_9.Properties.Resources.resources

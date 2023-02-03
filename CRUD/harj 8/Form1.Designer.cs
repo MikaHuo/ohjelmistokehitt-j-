@@ -58,11 +58,11 @@
             // vastausLB
             // 
             this.vastausLB.AutoSize = true;
-            this.vastausLB.Location = new System.Drawing.Point(290, 396);
+            this.vastausLB.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.vastausLB.Location = new System.Drawing.Point(107, 396);
             this.vastausLB.Name = "vastausLB";
-            this.vastausLB.Size = new System.Drawing.Size(78, 32);
+            this.vastausLB.Size = new System.Drawing.Size(0, 45);
             this.vastausLB.TabIndex = 2;
-            this.vastausLB.Text = "label3";
             // 
             // muutaBT
             // 
