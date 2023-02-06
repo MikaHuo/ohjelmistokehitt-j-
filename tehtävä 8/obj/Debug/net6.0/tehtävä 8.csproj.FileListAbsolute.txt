@@ -1,0 +1,15 @@
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\tehtävä 8\bin\Debug\net6.0\tehtävä 8.exe
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\tehtävä 8\bin\Debug\net6.0\tehtävä 8.deps.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\tehtävä 8\bin\Debug\net6.0\tehtävä 8.runtimeconfig.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\tehtävä 8\bin\Debug\net6.0\tehtävä 8.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\tehtävä 8\bin\Debug\net6.0\tehtävä 8.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\tehtävä 8\obj\Debug\net6.0\tehtävä 8.csproj.AssemblyReference.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\tehtävä 8\obj\Debug\net6.0\tehtävä 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\tehtävä 8\obj\Debug\net6.0\tehtävä 8.AssemblyInfoInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\tehtävä 8\obj\Debug\net6.0\tehtävä 8.AssemblyInfo.cs
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\tehtävä 8\obj\Debug\net6.0\tehtävä 8.csproj.CoreCompileInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\tehtävä 8\obj\Debug\net6.0\tehtävä 8.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\tehtävä 8\obj\Debug\net6.0\refint\tehtävä 8.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\tehtävä 8\obj\Debug\net6.0\tehtävä 8.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\tehtävä 8\obj\Debug\net6.0\tehtävä 8.genruntimeconfig.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\tehtävä 8\obj\Debug\net6.0\ref\tehtävä 8.dll

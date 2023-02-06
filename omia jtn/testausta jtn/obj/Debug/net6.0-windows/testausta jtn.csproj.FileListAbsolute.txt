@@ -1,0 +1,18 @@
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\omia jtn\testausta jtn\bin\Debug\net6.0-windows\testausta jtn.exe
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\omia jtn\testausta jtn\bin\Debug\net6.0-windows\testausta jtn.deps.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\omia jtn\testausta jtn\bin\Debug\net6.0-windows\testausta jtn.runtimeconfig.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\omia jtn\testausta jtn\bin\Debug\net6.0-windows\testausta jtn.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\omia jtn\testausta jtn\bin\Debug\net6.0-windows\testausta jtn.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\omia jtn\testausta jtn\obj\Debug\net6.0-windows\testausta jtn.csproj.AssemblyReference.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\omia jtn\testausta jtn\obj\Debug\net6.0-windows\testausta_jtn.Form1.resources
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\omia jtn\testausta jtn\obj\Debug\net6.0-windows\testausta_jtn.Properties.Resources.resources
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\omia jtn\testausta jtn\obj\Debug\net6.0-windows\testausta jtn.csproj.GenerateResource.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\omia jtn\testausta jtn\obj\Debug\net6.0-windows\testausta jtn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\omia jtn\testausta jtn\obj\Debug\net6.0-windows\testausta jtn.AssemblyInfoInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\omia jtn\testausta jtn\obj\Debug\net6.0-windows\testausta jtn.AssemblyInfo.cs
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\omia jtn\testausta jtn\obj\Debug\net6.0-windows\testausta jtn.csproj.CoreCompileInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\omia jtn\testausta jtn\obj\Debug\net6.0-windows\testausta jtn.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\omia jtn\testausta jtn\obj\Debug\net6.0-windows\refint\testausta jtn.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\omia jtn\testausta jtn\obj\Debug\net6.0-windows\testausta jtn.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\omia jtn\testausta jtn\obj\Debug\net6.0-windows\testausta jtn.genruntimeconfig.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\omia jtn\testausta jtn\obj\Debug\net6.0-windows\ref\testausta jtn.dll

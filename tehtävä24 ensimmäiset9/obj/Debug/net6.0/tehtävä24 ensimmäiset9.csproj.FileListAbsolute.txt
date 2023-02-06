@@ -1,0 +1,15 @@
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\tehtävä24 ensimmäiset9\obj\Debug\net6.0\tehtävä24 ensimmäiset9.csproj.AssemblyReference.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\tehtävä24 ensimmäiset9\obj\Debug\net6.0\tehtävä24 ensimmäiset9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\tehtävä24 ensimmäiset9\obj\Debug\net6.0\tehtävä24 ensimmäiset9.AssemblyInfoInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\tehtävä24 ensimmäiset9\obj\Debug\net6.0\tehtävä24 ensimmäiset9.AssemblyInfo.cs
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\tehtävä24 ensimmäiset9\obj\Debug\net6.0\tehtävä24 ensimmäiset9.csproj.CoreCompileInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\tehtävä24 ensimmäiset9\bin\Debug\net6.0\tehtävä24 ensimmäiset9.exe
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\tehtävä24 ensimmäiset9\bin\Debug\net6.0\tehtävä24 ensimmäiset9.deps.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\tehtävä24 ensimmäiset9\bin\Debug\net6.0\tehtävä24 ensimmäiset9.runtimeconfig.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\tehtävä24 ensimmäiset9\bin\Debug\net6.0\tehtävä24 ensimmäiset9.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\tehtävä24 ensimmäiset9\bin\Debug\net6.0\tehtävä24 ensimmäiset9.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\tehtävä24 ensimmäiset9\obj\Debug\net6.0\tehtävä24 ensimmäiset9.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\tehtävä24 ensimmäiset9\obj\Debug\net6.0\refint\tehtävä24 ensimmäiset9.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\tehtävä24 ensimmäiset9\obj\Debug\net6.0\tehtävä24 ensimmäiset9.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\tehtävä24 ensimmäiset9\obj\Debug\net6.0\tehtävä24 ensimmäiset9.genruntimeconfig.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\tehtävä24 ensimmäiset9\obj\Debug\net6.0\ref\tehtävä24 ensimmäiset9.dll
