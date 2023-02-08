@@ -1,0 +1,17 @@
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\10kysymystä\obj\Debug\net6.0-windows\10kysymystä.csproj.AssemblyReference.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\10kysymystä\obj\Debug\net6.0-windows\_10kysymystä.Form1.resources
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\10kysymystä\obj\Debug\net6.0-windows\10kysymystä.csproj.GenerateResource.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\10kysymystä\obj\Debug\net6.0-windows\10kysymystä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\10kysymystä\obj\Debug\net6.0-windows\10kysymystä.AssemblyInfoInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\10kysymystä\obj\Debug\net6.0-windows\10kysymystä.AssemblyInfo.cs
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\10kysymystä\obj\Debug\net6.0-windows\10kysymystä.csproj.CoreCompileInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\10kysymystä\bin\Debug\net6.0-windows\10kysymystä.exe
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\10kysymystä\bin\Debug\net6.0-windows\10kysymystä.deps.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\10kysymystä\bin\Debug\net6.0-windows\10kysymystä.runtimeconfig.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\10kysymystä\bin\Debug\net6.0-windows\10kysymystä.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\10kysymystä\bin\Debug\net6.0-windows\10kysymystä.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\10kysymystä\obj\Debug\net6.0-windows\10kysymystä.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\10kysymystä\obj\Debug\net6.0-windows\refint\10kysymystä.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\10kysymystä\obj\Debug\net6.0-windows\10kysymystä.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\10kysymystä\obj\Debug\net6.0-windows\10kysymystä.genruntimeconfig.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\10kysymystä\obj\Debug\net6.0-windows\ref\10kysymystä.dll
