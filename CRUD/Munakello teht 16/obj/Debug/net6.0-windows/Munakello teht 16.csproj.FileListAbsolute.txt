@@ -1,0 +1,17 @@
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Munakello teht 16\bin\Debug\net6.0-windows\Munakello teht 16.exe
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Munakello teht 16\bin\Debug\net6.0-windows\Munakello teht 16.deps.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Munakello teht 16\bin\Debug\net6.0-windows\Munakello teht 16.runtimeconfig.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Munakello teht 16\bin\Debug\net6.0-windows\Munakello teht 16.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Munakello teht 16\bin\Debug\net6.0-windows\Munakello teht 16.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Munakello teht 16\obj\Debug\net6.0-windows\Munakello teht 16.csproj.AssemblyReference.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Munakello teht 16\obj\Debug\net6.0-windows\Munakello_teht_16.Form1.resources
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Munakello teht 16\obj\Debug\net6.0-windows\Munakello teht 16.csproj.GenerateResource.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Munakello teht 16\obj\Debug\net6.0-windows\Munakello teht 16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Munakello teht 16\obj\Debug\net6.0-windows\Munakello teht 16.AssemblyInfoInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Munakello teht 16\obj\Debug\net6.0-windows\Munakello teht 16.AssemblyInfo.cs
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Munakello teht 16\obj\Debug\net6.0-windows\Munakello teht 16.csproj.CoreCompileInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Munakello teht 16\obj\Debug\net6.0-windows\Munakello teht 16.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Munakello teht 16\obj\Debug\net6.0-windows\refint\Munakello teht 16.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Munakello teht 16\obj\Debug\net6.0-windows\Munakello teht 16.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Munakello teht 16\obj\Debug\net6.0-windows\Munakello teht 16.genruntimeconfig.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Munakello teht 16\obj\Debug\net6.0-windows\ref\Munakello teht 16.dll

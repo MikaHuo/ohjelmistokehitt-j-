@@ -1,0 +1,17 @@
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\sekunttikello teht15\bin\Debug\net6.0-windows\sekunttikello teht15.exe
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\sekunttikello teht15\bin\Debug\net6.0-windows\sekunttikello teht15.deps.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\sekunttikello teht15\bin\Debug\net6.0-windows\sekunttikello teht15.runtimeconfig.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\sekunttikello teht15\bin\Debug\net6.0-windows\sekunttikello teht15.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\sekunttikello teht15\bin\Debug\net6.0-windows\sekunttikello teht15.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\sekunttikello teht15\obj\Debug\net6.0-windows\sekunttikello teht15.csproj.AssemblyReference.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\sekunttikello teht15\obj\Debug\net6.0-windows\sekunttikello_teht15.Form1.resources
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\sekunttikello teht15\obj\Debug\net6.0-windows\sekunttikello teht15.csproj.GenerateResource.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\sekunttikello teht15\obj\Debug\net6.0-windows\sekunttikello teht15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\sekunttikello teht15\obj\Debug\net6.0-windows\sekunttikello teht15.AssemblyInfoInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\sekunttikello teht15\obj\Debug\net6.0-windows\sekunttikello teht15.AssemblyInfo.cs
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\sekunttikello teht15\obj\Debug\net6.0-windows\sekunttikello teht15.csproj.CoreCompileInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\sekunttikello teht15\obj\Debug\net6.0-windows\sekunttikello teht15.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\sekunttikello teht15\obj\Debug\net6.0-windows\refint\sekunttikello teht15.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\sekunttikello teht15\obj\Debug\net6.0-windows\sekunttikello teht15.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\sekunttikello teht15\obj\Debug\net6.0-windows\sekunttikello teht15.genruntimeconfig.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\sekunttikello teht15\obj\Debug\net6.0-windows\ref\sekunttikello teht15.dll

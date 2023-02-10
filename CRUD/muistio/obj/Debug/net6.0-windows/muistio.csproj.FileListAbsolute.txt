@@ -1,0 +1,17 @@
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\muistio\bin\Debug\net6.0-windows\muistio.exe
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\muistio\bin\Debug\net6.0-windows\muistio.deps.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\muistio\bin\Debug\net6.0-windows\muistio.runtimeconfig.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\muistio\bin\Debug\net6.0-windows\muistio.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\muistio\bin\Debug\net6.0-windows\muistio.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\muistio\obj\Debug\net6.0-windows\muistio.csproj.AssemblyReference.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\muistio\obj\Debug\net6.0-windows\muistio.Form1.resources
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\muistio\obj\Debug\net6.0-windows\muistio.csproj.GenerateResource.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\muistio\obj\Debug\net6.0-windows\muistio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\muistio\obj\Debug\net6.0-windows\muistio.AssemblyInfoInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\muistio\obj\Debug\net6.0-windows\muistio.AssemblyInfo.cs
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\muistio\obj\Debug\net6.0-windows\muistio.csproj.CoreCompileInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\muistio\obj\Debug\net6.0-windows\muistio.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\muistio\obj\Debug\net6.0-windows\refint\muistio.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\muistio\obj\Debug\net6.0-windows\muistio.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\muistio\obj\Debug\net6.0-windows\muistio.genruntimeconfig.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\muistio\obj\Debug\net6.0-windows\ref\muistio.dll

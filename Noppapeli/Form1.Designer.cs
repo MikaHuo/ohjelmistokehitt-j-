@@ -28,11 +28,14 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.label1 = new System.Windows.Forms.Label();
             this.HeitaBT = new System.Windows.Forms.Button();
             this.noppa01PB = new System.Windows.Forms.PictureBox();
             this.noppa02PB = new System.Windows.Forms.PictureBox();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.imageList1 = new System.Windows.Forms.ImageList(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.noppa01PB)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.noppa02PB)).BeginInit();
             this.SuspendLayout();
@@ -80,6 +83,23 @@
             this.noppa02PB.TabIndex = 3;
             this.noppa02PB.TabStop = false;
             // 
+            // timer1
+            // 
+            this.timer1.Enabled = true;
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
+            // imageList1
+            // 
+            this.imageList1.ColorDepth = System.Windows.Forms.ColorDepth.Depth8Bit;
+            this.imageList1.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("imageList1.ImageStream")));
+            this.imageList1.TransparentColor = System.Drawing.Color.Transparent;
+            this.imageList1.Images.SetKeyName(0, "dice01.png");
+            this.imageList1.Images.SetKeyName(1, "dice02.png");
+            this.imageList1.Images.SetKeyName(2, "dice03.png");
+            this.imageList1.Images.SetKeyName(3, "dice04.png");
+            this.imageList1.Images.SetKeyName(4, "dice05.png");
+            this.imageList1.Images.SetKeyName(5, "dice06.png");
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 32F);
@@ -107,5 +127,7 @@
         private Button HeitaBT;
         private PictureBox noppa01PB;
         private PictureBox noppa02PB;
+        private System.Windows.Forms.Timer timer1;
+        private ImageList imageList1;
     }
 }

@@ -1,0 +1,17 @@
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\suosituimmat nimet\obj\Debug\net6.0-windows\suosituimmat nimet.csproj.AssemblyReference.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\suosituimmat nimet\obj\Debug\net6.0-windows\suosituimmat_nimet.Form1.resources
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\suosituimmat nimet\obj\Debug\net6.0-windows\suosituimmat nimet.csproj.GenerateResource.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\suosituimmat nimet\obj\Debug\net6.0-windows\suosituimmat nimet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\suosituimmat nimet\obj\Debug\net6.0-windows\suosituimmat nimet.AssemblyInfoInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\suosituimmat nimet\obj\Debug\net6.0-windows\suosituimmat nimet.AssemblyInfo.cs
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\suosituimmat nimet\obj\Debug\net6.0-windows\suosituimmat nimet.csproj.CoreCompileInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\suosituimmat nimet\bin\Debug\net6.0-windows\suosituimmat nimet.exe
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\suosituimmat nimet\bin\Debug\net6.0-windows\suosituimmat nimet.deps.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\suosituimmat nimet\bin\Debug\net6.0-windows\suosituimmat nimet.runtimeconfig.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\suosituimmat nimet\bin\Debug\net6.0-windows\suosituimmat nimet.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\suosituimmat nimet\bin\Debug\net6.0-windows\suosituimmat nimet.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\suosituimmat nimet\obj\Debug\net6.0-windows\suosituimmat nimet.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\suosituimmat nimet\obj\Debug\net6.0-windows\refint\suosituimmat nimet.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\suosituimmat nimet\obj\Debug\net6.0-windows\suosituimmat nimet.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\suosituimmat nimet\obj\Debug\net6.0-windows\suosituimmat nimet.genruntimeconfig.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\suosituimmat nimet\obj\Debug\net6.0-windows\ref\suosituimmat nimet.dll
