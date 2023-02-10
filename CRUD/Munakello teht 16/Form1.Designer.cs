@@ -35,6 +35,7 @@
             this.sekCB = new System.Windows.Forms.ComboBox();
             this.aikaLB = new System.Windows.Forms.Label();
             this.aikaTM = new System.Windows.Forms.Timer(this.components);
+            this.annettuLB = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // pysaytaBT
@@ -95,11 +96,22 @@
             this.aikaTM.Interval = 1000;
             this.aikaTM.Tick += new System.EventHandler(this.aikaTM_Tick);
             // 
+            // annettuLB
+            // 
+            this.annettuLB.AutoSize = true;
+            this.annettuLB.Font = new System.Drawing.Font("Tempus Sans ITC", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.annettuLB.Location = new System.Drawing.Point(44, 234);
+            this.annettuLB.Name = "annettuLB";
+            this.annettuLB.Size = new System.Drawing.Size(98, 42);
+            this.annettuLB.TabIndex = 5;
+            this.annettuLB.Text = "label1";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(19F, 42F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(680, 306);
+            this.Controls.Add(this.annettuLB);
             this.Controls.Add(this.aikaLB);
             this.Controls.Add(this.sekCB);
             this.Controls.Add(this.minCB);
@@ -123,5 +135,6 @@
         private ComboBox sekCB;
         private Label aikaLB;
         private System.Windows.Forms.Timer aikaTM;
+        private Label annettuLB;
     }
 }

@@ -20,6 +20,7 @@ namespace Munakello_teht_16
             minCB.SelectedIndex = 0;
             minCB.Text = " Minuutit ";
             sekCB.SelectedIndex = 0;
+            sekCB.Text = " Sekunnit ";
         }
 
         private void k‰ynnist‰BT_Click(object sender, EventArgs e)
@@ -32,7 +33,9 @@ namespace Munakello_teht_16
             aikaTM.Enabled = true;
             minCB.Text = " Minuutit ";
             sekCB.Text = " Sekunnit ";
-
+            annettuLB.Text = (this.minCB.SelectedItem.ToString());
+            annettuLB.Text = (this.sekCB.SelectedItem.ToString());
+            annettuLB.Visible = true;
         }
 
         private void pysaytaBT_Click(object sender, EventArgs e)
@@ -42,6 +45,7 @@ namespace Munakello_teht_16
             kokonaisaika = 0;
             aikaTM.Enabled = false;
             aikaLB.Text = "00:00";
+            
         }
 
         private void aikaTM_Tick(object sender, EventArgs e)
