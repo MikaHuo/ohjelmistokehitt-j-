@@ -36,6 +36,8 @@
             this.aikaLB = new System.Windows.Forms.Label();
             this.aikaTM = new System.Windows.Forms.Timer(this.components);
             this.annettuLB = new System.Windows.Forms.Label();
+            this.LB2 = new System.Windows.Forms.Label();
+            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.SuspendLayout();
             // 
             // pysaytaBT
@@ -63,31 +65,31 @@
             // minCB
             // 
             this.minCB.FormattingEnabled = true;
-            this.minCB.Location = new System.Drawing.Point(44, 158);
+            this.minCB.Location = new System.Drawing.Point(44, 46);
             this.minCB.Margin = new System.Windows.Forms.Padding(4);
             this.minCB.Name = "minCB";
-            this.minCB.Size = new System.Drawing.Size(352, 50);
+            this.minCB.Size = new System.Drawing.Size(285, 50);
             this.minCB.TabIndex = 2;
             this.minCB.Text = "Minuutit";
             // 
             // sekCB
             // 
             this.sekCB.FormattingEnabled = true;
-            this.sekCB.Location = new System.Drawing.Point(44, 79);
+            this.sekCB.Location = new System.Drawing.Point(44, 114);
             this.sekCB.Margin = new System.Windows.Forms.Padding(4);
             this.sekCB.Name = "sekCB";
-            this.sekCB.Size = new System.Drawing.Size(352, 50);
+            this.sekCB.Size = new System.Drawing.Size(285, 50);
             this.sekCB.TabIndex = 3;
             this.sekCB.Text = "Sekunnit";
             // 
             // aikaLB
             // 
             this.aikaLB.AutoSize = true;
-            this.aikaLB.Font = new System.Drawing.Font("Tempus Sans ITC", 22.125F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point);
-            this.aikaLB.Location = new System.Drawing.Point(446, 56);
+            this.aikaLB.Font = new System.Drawing.Font("Tempus Sans ITC", 28.125F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point);
+            this.aikaLB.Location = new System.Drawing.Point(389, 30);
             this.aikaLB.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.aikaLB.Name = "aikaLB";
-            this.aikaLB.Size = new System.Drawing.Size(209, 77);
+            this.aikaLB.Size = new System.Drawing.Size(266, 98);
             this.aikaLB.TabIndex = 4;
             this.aikaLB.Text = "00:00\r\n";
             // 
@@ -100,17 +102,30 @@
             // 
             this.annettuLB.AutoSize = true;
             this.annettuLB.Font = new System.Drawing.Font("Tempus Sans ITC", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.annettuLB.Location = new System.Drawing.Point(44, 234);
+            this.annettuLB.Location = new System.Drawing.Point(44, 206);
             this.annettuLB.Name = "annettuLB";
             this.annettuLB.Size = new System.Drawing.Size(98, 42);
             this.annettuLB.TabIndex = 5;
             this.annettuLB.Text = "label1";
+            this.annettuLB.Visible = false;
+            // 
+            // LB2
+            // 
+            this.LB2.AutoSize = true;
+            this.LB2.Font = new System.Drawing.Font("Times New Roman", 10.125F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.LB2.Location = new System.Drawing.Point(44, 255);
+            this.LB2.Name = "LB2";
+            this.LB2.Size = new System.Drawing.Size(149, 31);
+            this.LB2.TabIndex = 6;
+            this.LB2.Text = "Valitsit ajan.";
+            this.LB2.Visible = false;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(19F, 42F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(680, 306);
+            this.Controls.Add(this.LB2);
             this.Controls.Add(this.annettuLB);
             this.Controls.Add(this.aikaLB);
             this.Controls.Add(this.sekCB);
@@ -136,5 +151,7 @@
         private Label aikaLB;
         private System.Windows.Forms.Timer aikaTM;
         private Label annettuLB;
+        private Label LB2;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
     }
 }
