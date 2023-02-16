@@ -1,0 +1,17 @@
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 18 pudotusvalikot\bin\Debug\net6.0-windows\tehtävä 18 pudotusvalikot.exe
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 18 pudotusvalikot\bin\Debug\net6.0-windows\tehtävä 18 pudotusvalikot.deps.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 18 pudotusvalikot\bin\Debug\net6.0-windows\tehtävä 18 pudotusvalikot.runtimeconfig.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 18 pudotusvalikot\bin\Debug\net6.0-windows\tehtävä 18 pudotusvalikot.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 18 pudotusvalikot\bin\Debug\net6.0-windows\tehtävä 18 pudotusvalikot.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 18 pudotusvalikot\obj\Debug\net6.0-windows\tehtävä 18 pudotusvalikot.csproj.AssemblyReference.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 18 pudotusvalikot\obj\Debug\net6.0-windows\tehtävä_18_pudotusvalikot.Form1.resources
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 18 pudotusvalikot\obj\Debug\net6.0-windows\tehtävä 18 pudotusvalikot.csproj.GenerateResource.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 18 pudotusvalikot\obj\Debug\net6.0-windows\tehtävä 18 pudotusvalikot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 18 pudotusvalikot\obj\Debug\net6.0-windows\tehtävä 18 pudotusvalikot.AssemblyInfoInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 18 pudotusvalikot\obj\Debug\net6.0-windows\tehtävä 18 pudotusvalikot.AssemblyInfo.cs
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 18 pudotusvalikot\obj\Debug\net6.0-windows\tehtävä 18 pudotusvalikot.csproj.CoreCompileInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 18 pudotusvalikot\obj\Debug\net6.0-windows\tehtävä 18 pudotusvalikot.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 18 pudotusvalikot\obj\Debug\net6.0-windows\refint\tehtävä 18 pudotusvalikot.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 18 pudotusvalikot\obj\Debug\net6.0-windows\tehtävä 18 pudotusvalikot.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 18 pudotusvalikot\obj\Debug\net6.0-windows\tehtävä 18 pudotusvalikot.genruntimeconfig.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 18 pudotusvalikot\obj\Debug\net6.0-windows\ref\tehtävä 18 pudotusvalikot.dll
