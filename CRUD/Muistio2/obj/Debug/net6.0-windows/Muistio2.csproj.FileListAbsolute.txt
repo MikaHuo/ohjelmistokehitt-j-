@@ -1,0 +1,8 @@
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Muistio2\obj\Debug\net6.0-windows\Muistio2.csproj.AssemblyReference.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Muistio2\obj\Debug\net6.0-windows\Muistio2.Form1.resources
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Muistio2\obj\Debug\net6.0-windows\Muistio2.tietoa.resources
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Muistio2\obj\Debug\net6.0-windows\Muistio2.csproj.GenerateResource.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Muistio2\obj\Debug\net6.0-windows\Muistio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Muistio2\obj\Debug\net6.0-windows\Muistio2.AssemblyInfoInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Muistio2\obj\Debug\net6.0-windows\Muistio2.AssemblyInfo.cs
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Muistio2\obj\Debug\net6.0-windows\Muistio2.csproj.CoreCompileInputs.cache

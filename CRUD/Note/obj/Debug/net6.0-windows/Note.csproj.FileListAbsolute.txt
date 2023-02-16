@@ -1,0 +1,17 @@
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Note\bin\Debug\net6.0-windows\Note.exe
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Note\bin\Debug\net6.0-windows\Note.deps.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Note\bin\Debug\net6.0-windows\Note.runtimeconfig.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Note\bin\Debug\net6.0-windows\Note.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Note\bin\Debug\net6.0-windows\Note.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Note\obj\Debug\net6.0-windows\Note.csproj.AssemblyReference.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Note\obj\Debug\net6.0-windows\Note.Form1.resources
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Note\obj\Debug\net6.0-windows\Note.csproj.GenerateResource.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Note\obj\Debug\net6.0-windows\Note.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Note\obj\Debug\net6.0-windows\Note.AssemblyInfoInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Note\obj\Debug\net6.0-windows\Note.AssemblyInfo.cs
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Note\obj\Debug\net6.0-windows\Note.csproj.CoreCompileInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Note\obj\Debug\net6.0-windows\Note.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Note\obj\Debug\net6.0-windows\refint\Note.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Note\obj\Debug\net6.0-windows\Note.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Note\obj\Debug\net6.0-windows\Note.genruntimeconfig.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\Note\obj\Debug\net6.0-windows\ref\Note.dll
