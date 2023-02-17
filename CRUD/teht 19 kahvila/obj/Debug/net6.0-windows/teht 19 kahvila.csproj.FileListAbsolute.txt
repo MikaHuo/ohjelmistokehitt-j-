@@ -1,0 +1,18 @@
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 19 kahvila\bin\Debug\net6.0-windows\teht 19 kahvila.exe
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 19 kahvila\bin\Debug\net6.0-windows\teht 19 kahvila.deps.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 19 kahvila\bin\Debug\net6.0-windows\teht 19 kahvila.runtimeconfig.json
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 19 kahvila\bin\Debug\net6.0-windows\teht 19 kahvila.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 19 kahvila\bin\Debug\net6.0-windows\teht 19 kahvila.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 19 kahvila\obj\Debug\net6.0-windows\teht 19 kahvila.csproj.AssemblyReference.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 19 kahvila\obj\Debug\net6.0-windows\teht_19_kahvila.ruokalistaForm.resources
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 19 kahvila\obj\Debug\net6.0-windows\teht_19_kahvila.Properties.Resources.resources
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 19 kahvila\obj\Debug\net6.0-windows\teht 19 kahvila.csproj.GenerateResource.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 19 kahvila\obj\Debug\net6.0-windows\teht 19 kahvila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 19 kahvila\obj\Debug\net6.0-windows\teht 19 kahvila.AssemblyInfoInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 19 kahvila\obj\Debug\net6.0-windows\teht 19 kahvila.AssemblyInfo.cs
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 19 kahvila\obj\Debug\net6.0-windows\teht 19 kahvila.csproj.CoreCompileInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 19 kahvila\obj\Debug\net6.0-windows\teht 19 kahvila.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 19 kahvila\obj\Debug\net6.0-windows\refint\teht 19 kahvila.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 19 kahvila\obj\Debug\net6.0-windows\teht 19 kahvila.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 19 kahvila\obj\Debug\net6.0-windows\teht 19 kahvila.genruntimeconfig.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\teht 19 kahvila\obj\Debug\net6.0-windows\ref\teht 19 kahvila.dll
