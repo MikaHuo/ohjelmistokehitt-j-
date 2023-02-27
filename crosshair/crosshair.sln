@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crosshair", "crosshair.csproj", "{47F05880-2A11-4F61-BBA5-A30D9797E367}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47F05880-2A11-4F61-BBA5-A30D9797E367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F05880-2A11-4F61-BBA5-A30D9797E367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F05880-2A11-4F61-BBA5-A30D9797E367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F05880-2A11-4F61-BBA5-A30D9797E367}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AF2D217-7DB1-492F-B494-B6A804B39FD3}
+	EndGlobalSection
+EndGlobal

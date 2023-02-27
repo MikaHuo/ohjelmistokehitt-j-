@@ -65,7 +65,7 @@ namespace teht_19_kahvila
 
         private void exitBT_Click(object sender, EventArgs e)
         {
-            Application.Exit(); 
+            Application.Exit();
         }
     }
 }
