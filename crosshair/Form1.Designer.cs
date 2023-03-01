@@ -63,6 +63,7 @@
             changeGB.Controls.Add(greenRB);
             changeGB.Controls.Add(redRB);
             changeGB.Controls.Add(crossCB);
+            changeGB.Cursor = Cursors.Arrow;
             changeGB.Dock = DockStyle.Right;
             changeGB.Location = new Point(1209, 0);
             changeGB.Name = "changeGB";
