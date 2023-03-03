@@ -44,6 +44,7 @@ namespace tehtävä_20
             string email = emailTB.Text;
             int oNro = Int32.Parse(onroTB.Text);
 
+
             if (enimi.Trim().Equals(" ") || snimi.Trim().Equals(" ") || puhelin.Trim().Equals(" ") || email.Trim().Equals(" ") || oNro.Equals(" "))
             {
                 MessageBox.Show("VIRHE - Vaaditut kentät - Etu- ja sukunimi, puhelin, sähköposti ja opiskelijanumero", "Tyhjä kenttä", MessageBoxButtons.OK, MessageBoxIcon.Error);

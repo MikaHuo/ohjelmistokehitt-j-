@@ -23,8 +23,9 @@ namespace tehtävä_20
             komento.Parameters.Add("@puh", MySqlDbType.VarChar).Value = puh;
             komento.Parameters.Add("@eml", MySqlDbType.VarChar).Value = email;
             komento.Parameters.Add("@ono", MySqlDbType.VarChar).Value = onro;
-
+      
             yhteys.avaaYhteys();
+
             if(komento.ExecuteNonQuery() == 1)
             {
                 yhteys.suljeYhteys();
@@ -51,7 +52,7 @@ namespace tehtävä_20
         public bool muokkaaOpiskelijaa(int oid, string enimi, string snimi, string puh, string email, int onro)
         {
             MySqlCommand komento = new MySqlCommand();
-            string paivityskysely = "UPDATE yhteystiedot SET etunimi = @enm," + "sukunimi = @snm, puhelin = @puh, sahkoposti = @eml, opiskelijanumero = @ono" + "WHERE oid = @oid";
+            string paivityskysely = "UPDATE yhteystiedot SET etunimi = @enm," + "sukunimi = @snm, puhelin = @puh, sahkoposti = @eml, opiskelijanumero = @ono " + "WHERE oid = @oid";
             komento.CommandText = paivityskysely;
             komento.Connection = yhteys.otaYhteys();
             komento.Parameters.Add("@enm", MySqlDbType.VarChar).Value = enimi;
