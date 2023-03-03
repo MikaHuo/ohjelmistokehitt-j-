@@ -1,0 +1,25 @@
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 20\obj\Debug\tehtävä 20.csproj.AssemblyReference.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 20\obj\Debug\tehtävä 20.csproj.SuggestedBindingRedirects.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 20\obj\Debug\tehtävä 20.exe.config
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 20\obj\Debug\tehtävä_20.Form1.resources
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 20\obj\Debug\tehtävä_20.Properties.Resources.resources
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 20\obj\Debug\tehtävä 20.csproj.GenerateResource.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 20\obj\Debug\tehtävä 20.csproj.CoreCompileInputs.cache
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 20\bin\Debug\tehtävä 20.exe.config
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 20\bin\Debug\tehtävä 20.exe
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 20\bin\Debug\tehtävä 20.pdb
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 20\bin\Debug\MySql.Data.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 20\bin\Debug\Google.Protobuf.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 20\bin\Debug\Zstandard.Net.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 20\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 20\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 20\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 20\bin\Debug\Renci.SshNet.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 20\bin\Debug\System.Buffers.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 20\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 20\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 20\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 20\bin\Debug\MySql.Data.xml
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 20\obj\Debug\tehtävä 20.csproj.CopyComplete
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 20\obj\Debug\tehtävä 20.exe
+C:\Users\mhuot\source\repos\ohjelmistokehittaja\CRUD\tehtävä 20\obj\Debug\tehtävä 20.pdb
