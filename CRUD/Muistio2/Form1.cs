@@ -11,7 +11,7 @@ namespace Muistio2
 
         private void uusiToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            if(rikasTB.Text != "")
+            if (rikasTB.Text != "")
             {
                 tallennaNimell‰ToolStripMenuItem_Click(sender, e);
                 rikasTB.Text = "";
@@ -21,32 +21,38 @@ namespace Muistio2
                 rikasTB.Text = "";
             }
         }
-        private void avaaToolStripMenuItem_Click(object sender, EventArgs e) 
+        private void avaaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            using (OpenFileDialog atk = new OpenFileDialog() { Filter = "TextDocument|*.txt|Rich Text Format|*.rtf", ValidateNames = true, Multiselect = false }
-        {
-                if(atk.ShowDialog() == DialogResult.OK )
+            using (OpenFileDialog atk = new OpenFileDialog()
+            {
+                Filter = "TextDocument|*.txt|Rich Text Format|*.rtf",
+                ValidateNames = true,
+                Multiselect = false,
+            })
+            {
+                if (atk.ShowDialog() == DialogResult.OK)
                 {
                     using (StreamReader v1 = new StreamReader(atk.FileName))
                     {
                         tiedostopolku = atk.FileName;
                         Task<string> teksti = v1.ReadToEndAsync();
-                        rikasTB.Rtf = teksti.Result; (Oli: rikasTB.Text = teksti.Result);
-                    }
+                        rikasTB.Rtf = teksti.Result;// Oli: rikasTB.Text = teksti.Result;
                     }
                 }
+            }
         }
 
         private void toolStripMenuItem2_Click(object sender, EventArgs e)
         {
-            if(string.IsNullOrEmpty(tiedostopolku))
+            if (string.IsNullOrEmpty(tiedostopolku))
             {
-                using(SaveFileDialog ttk = new SaveFileDialog()
+                using (SaveFileDialog ttk = new SaveFileDialog()
                 {
-                    Filter = "TextDocument|*.txt|Rich Text Format|*.rtf", ValidateNames = true
+                    Filter = "TextDocument|*.txt|Rich Text Format|*.rtf",
+                    ValidateNames = true
                 })
                 {
-                    if(ttk.ShowDialog()==DialogResult.OK )
+                    if (ttk.ShowDialog() == DialogResult.OK)
                     {
                         StreamWriter tiedosto = new StreamWriter(ttk.FileName);
                         tiedosto.WriteLine(this.rikasTB.Rtf);
@@ -56,7 +62,7 @@ namespace Muistio2
             }
             else
             {
-                using(StreamWriter vk = new StreamWriter(tiedostopolku))
+                using (StreamWriter vk = new StreamWriter(tiedostopolku))
                 {
                     vk.WriteLineAsync(rikasTB.Rtf);
                 }
@@ -67,14 +73,15 @@ namespace Muistio2
         {
             using (SaveFileDialog ttk = new SaveFileDialog()
             {
-                Filter = "TextDocument|*.txt|Rich Text Format|*.rtf", ValidateNames = true
+                Filter = "TextDocument|*.txt|Rich Text Format|*.rtf",
+                ValidateNames = true
             })
             {
-                if (ttk.ShowDialog()==DialogResult.OK )
+                if (ttk.ShowDialog() == DialogResult.OK)
                 {
                     using (StreamWriter jonokirjoittaja = new StreamWriter(ttk.FileName))
                     {
-                        jonokirjoittaja.WriteLineAsync(rikasTB.Rtf);(Oli: rikasTB.Text);
+                        jonokirjoittaja.WriteLineAsync(rikasTB.Rtf); //(Oli: rikasTB.Text);
                     }
                 }
             }
@@ -89,7 +96,7 @@ namespace Muistio2
         private void tulostaToolStripMenuItem_Click(object sender, EventArgs e)
         {
             printPreviewDialog1.Document = printDocument1;
-            if(printDialog1.ShowDialog() == DialogResult.OK)
+            if (printDialog1.ShowDialog() == DialogResult.OK)
             {
                 printDocument1.Print();
             }
@@ -142,37 +149,37 @@ namespace Muistio2
 
         private void rikasTB_TextChanged(object sender, EventArgs e)
         {
-            if(rikasTB.Text.Length> 0)
+            if (rikasTB.Text.Length > 0)
             {
                 kopioiToolStripMenuItem.Enabled = true;
                 leikkaaToolStripMenuItem.Enabled = true;
             }
             else
             {
-                kopioiToolStripMenuItem.Enabled=false;
-                leikkaaToolStripMenuItem.Enabled=false;
+                kopioiToolStripMenuItem.Enabled = false;
+                leikkaaToolStripMenuItem.Enabled = false;
             }
 
         }
 
         private void tekstinRivitysToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            if(tekstinRivitysToolStripMenuItem.Checked = true)
+            if (tekstinRivitysToolStripMenuItem.Checked = true)
             {
                 tekstinRivitysToolStripMenuItem.Checked = false;
-                rikasTB.WordWrap= false;
+                rikasTB.WordWrap = false;
             }
             else
             {
                 tekstinRivitysToolStripMenuItem.Checked = true;
-                rikasTB.WordWrap= false;
+                rikasTB.WordWrap = false;
             }
         }
 
         private void kirjasinToolStripMenuItem_Click(object sender, EventArgs e)
         {
             fontDialog1.ShowDialog();
-            rikasTB.SelectionFont= new Font(fontDialog1.Font.FontFamily,fontDialog1.Font.Size, fontDialog1.Font.Style);
+            rikasTB.SelectionFont = new Font(fontDialog1.Font.FontFamily, fontDialog1.Font.Size, fontDialog1.Font.Style);
         }
 
         private void tekstinKorostusToolStripMenuItem_Click(object sender, EventArgs e)

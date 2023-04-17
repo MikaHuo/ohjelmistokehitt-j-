@@ -52,6 +52,7 @@
             crossPB.SizeMode = PictureBoxSizeMode.StretchImage;
             crossPB.TabIndex = 1;
             crossPB.TabStop = false;
+            crossPB.Click += crossPB_Click;
             // 
             // changeGB
             // 
@@ -63,7 +64,6 @@
             changeGB.Controls.Add(greenRB);
             changeGB.Controls.Add(redRB);
             changeGB.Controls.Add(crossCB);
-            changeGB.Cursor = Cursors.Arrow;
             changeGB.Dock = DockStyle.Right;
             changeGB.Location = new Point(1209, 0);
             changeGB.Name = "changeGB";
@@ -125,9 +125,11 @@
             redRB.TabStop = true;
             redRB.Text = "Red";
             redRB.UseVisualStyleBackColor = true;
+            redRB.CheckedChanged += redRB_CheckedChanged;
             // 
             // crossCB
             // 
+            crossCB.DropDownStyle = ComboBoxStyle.DropDownList;
             crossCB.FormattingEnabled = true;
             crossCB.Items.AddRange(new object[] { "1", "2", "3", "4", "5" });
             crossCB.Location = new Point(45, 219);
@@ -142,8 +144,8 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.LightGreen;
             ClientSize = new Size(1609, 835);
-            Controls.Add(changeGB);
             Controls.Add(crossPB);
+            Controls.Add(changeGB);
             Cursor = Cursors.No;
             FormBorderStyle = FormBorderStyle.None;
             Name = "Form1";
